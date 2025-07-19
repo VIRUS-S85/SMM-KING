@@ -8,5 +8,11 @@ SMM-KING You use the tool to take down various 18+ and fake websites. Don't use 
 
 ## Installation
 ```bash
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2
+pkg install git
 git clone https://github.com/VIRUS-S85/SMM-KING.git
 cd SMM-KING
+python README.md
