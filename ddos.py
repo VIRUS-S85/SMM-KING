@@ -1,1 +1,1 @@
-DDos-Attack_/ddos.py
+ddos.py
