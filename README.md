@@ -1,2 +1,1 @@
-# SMM-KING
-Just For Fun
+ddos.py
