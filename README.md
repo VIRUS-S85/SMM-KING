@@ -15,4 +15,4 @@ pkg install python2
 pkg install git
 git clone https://github.com/VIRUS-S85/SMM-KING.git
 cd SMM-KING
-python README.md
+python ddos.py
